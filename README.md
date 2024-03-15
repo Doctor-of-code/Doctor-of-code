@@ -9,10 +9,10 @@
 
 # ☕About me
 
-- 👀 I’m interested in The Programming
+- 👀 I’m interested in The Programming/Coding
 - 🌱 I’m currently learning Front-End
 - 😄 Pronouns: Moyo, Bot138
-- ☢ I’m Four years in the world Programming
+- ☢ I’ve been learning programing for four years 
 ---
 ![Static Badge](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
