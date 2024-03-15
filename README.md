@@ -1,8 +1,10 @@
-<div aling="center">
-<h1>👋 Hi, I’m <del>@Doctor-of-code</del></h1>
+<div align="center">
+  <h1>👋 Hi, I’m <del>@Doctor-of-code</del></h1>
+  
+  ![Banner-github (1)](https://github.com/Doctor-of-code/Doctor-of-code/assets/163482408/e4b5b429-f968-4876-9986-86c7b2f4f3e5)
 </div>
 
-![Banner-github (1)](https://github.com/Doctor-of-code/Doctor-of-code/assets/163482408/e4b5b429-f968-4876-9986-86c7b2f4f3e5)
+
 
 
 # ☕About me
@@ -15,7 +17,7 @@
 ![Static Badge](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
 # 🎓Skills
-
+  
 ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
